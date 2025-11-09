@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🛠 Actualmente soy tecnico en desarrollo de software 🛠
+- 🛠 Actualmente soy tecnologo en analisis y desarrollo de software 🛠
 - 💬 Tengo experiencia en desarrollo web y discord bots con node.js 💬
 <hr>
 <h2>HABILIDADES⚔</h2>
