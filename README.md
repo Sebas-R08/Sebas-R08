@@ -37,9 +37,6 @@ Here are some ideas to get you started:
             <td><a href="https://www.linkedin.com/in/sebasti%C3%A1n-restrepo-a66926257/" target="_blank">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://www.instagram.com/sebasr__00/" target="_blank">
-            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
-            </a></td>
         </tr>
     </tbody>
 </table>
